@@ -1,0 +1,15 @@
+pydantic==1.10.7
+uvicorn==0.21.1
+apache-libcloud==3.7.0
+python-multipart==0.0.6
+
+altair==4.0
+PyYAML==6.0
+beautifulsoup4==4.12.3
+lxml==4.9.3
+
+torch
+transformers
+flask
+streamlit
+scipy
